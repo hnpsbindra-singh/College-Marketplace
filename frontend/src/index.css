@@ -1,0 +1,46 @@
+body {
+  background-color: #f5f5f7;
+  font-family: "Segoe UI", sans-serif;
+}
+
+.text-thapar {
+  color: #b3002d;
+}
+
+.thapar-navbar {
+  background: #1a1a1a;
+}
+
+.logo-circle {
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  background: #b3002d;
+  color: #fff;
+  font-size: 0.9rem;
+}
+
+.btn-thapar-main {
+  background-color: #b3002d;
+  color: #fff;
+  border: none;
+}
+
+.btn-thapar-main:hover {
+  background-color: #8e0023;
+  color: #fff;
+}
+
+.btn-outline-thapar {
+  border-color: #b3002d;
+  color: #b3002d;
+}
+
+.btn-outline-thapar:hover {
+  background-color: #b3002d;
+  color: #fff;
+}
+
+.product-card {
+  border-radius: 12px;
+}
